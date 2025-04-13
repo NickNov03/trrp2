@@ -1,0 +1,6 @@
+[submodule "trrp2_server"]
+	path = trrp2_server
+	url = https://github.com/NickNov03/trrp2_server.git
+[submodule "trrp2_client"]
+	path = trrp2_client
+	url = https://github.com/NickNov03/trrp2_client.git
